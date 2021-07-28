@@ -28,10 +28,9 @@ footer{
     padding: 7px 20px;
     border-radius:20px ;
      border:none ;
-     /* border: 2px red sjlid;  */
 }
 header button:hover{
-    background-color: #750404;
+    background-color: #f0a1a1;
     transform: scale(1.1);
 }
 button a{
@@ -43,7 +42,216 @@ button a{
     background-image:linear-gradient(to top ,
 rgba(0, 0, 0, 0.596), rgba(0, 0, 0, 0.096)    ) , url(photo.jpg);
     background-size: cover;
-display:fiex;
+     background-position:center ;
+display:flex;
 flex-direction: column;
 justify-content: center;
-}   
+}
+
+
+
+      
+.hero p{
+    font-size: 18px ;
+}
+ .pets{
+padding: 50px 20px ;
+background-color: #d2691e;
+ }
+img{
+    max-width: 100%;
+}
+.pets-wrapper{
+
+
+display: flex;
+justify-content: space-between;
+}
+figure{
+width: 22%;
+background-color : black 
+}
+
+
+@media(max-width: 457px){
+    hedar{
+         display: block;
+        text-align: center;
+
+    }
+nav{
+    margin: 25px 0 ;
+     } 
+nav a{
+    display:block;
+} 
+@media  (max-width: 457px){
+    h1{
+      font-size: 22px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
